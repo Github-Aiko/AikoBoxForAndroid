@@ -42,7 +42,7 @@ func InitCore(process, cachePath, internalAssets, externalAssets string,
 	defer device.DeferPanicToError("InitCore", func(err error) { log.Println(err) })
 	isBgProcess := strings.HasSuffix(process, ":bg")
 
-	neko_common.RunMode = neko_common.RunMode_NekoBoxForAndroid
+	neko_common.RunMode = neko_common.RunMode_AikoBoxForAndroid
 	intfNB4A = iif
 
 	// Working dir

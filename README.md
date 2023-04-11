@@ -1,7 +1,7 @@
-# NekoBox for Android
+# AikoBox for Android
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![Releases](https://img.shields.io/github/v/release/MatsuriDayo/NekoBoxForAndroid)](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+[![Releases](https://img.shields.io/github/v/release/MatsuriDayo/AikoBoxForAndroid)](https://github.com/MatsuriDayo/AikoBoxForAndroid/releases)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 sing-box / universal proxy toolchain for Android.
@@ -10,9 +10,9 @@ sing-box / universal proxy toolchain for Android.
 
 ### GitHub Releases
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Matsuridayo/NekoBoxForAndroid/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Matsuridayo/AikoBoxForAndroid/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Matsuridayo/AikoBoxForAndroid/releases)
 
-[下载](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+[下载](https://github.com/Matsuridayo/AikoBoxForAndroid/releases)
 
 [Google Play](https://play.google.com/store/apps/details?id=moe.nb4a)
 

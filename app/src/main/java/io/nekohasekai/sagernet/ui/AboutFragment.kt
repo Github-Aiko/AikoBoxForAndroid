@@ -83,7 +83,7 @@ class AboutFragment : ToolbarFragment(R.layout.layout_about) {
                         .subText(versionName)
                         .setOnClickAction {
                             requireContext().launchCustomTab(
-                                "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases"
+                                "https://github.com/MatsuriDayo/AikoBoxForAndroid/releases"
                             )
                         }
                         .build())
@@ -161,7 +161,7 @@ class AboutFragment : ToolbarFragment(R.layout.layout_about) {
                         .text(R.string.github)
                         .setOnClickAction {
                             requireContext().launchCustomTab(
-                                "https://github.com/MatsuriDayo/NekoBoxForAndroid"
+                                "https://github.com/MatsuriDayo/AikoBoxForAndroid"
 
                             )
                         }
