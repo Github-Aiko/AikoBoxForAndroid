@@ -14,7 +14,7 @@ sing-box / universal proxy toolchain for Android.
 
 [下载](https://github.com/Matsuridayo/AikoBoxForAndroid/releases)
 
-[Google Play](https://play.google.com/store/apps/details?id=moe.nb4a)
+[Google Play](https://play.google.com/store/apps/details?id=aiko.nb4a)
 
 ## 更改记录 & 发布频道 / Changelog & Telegram channel
 
@@ -51,7 +51,7 @@ Please go to the [project homepage](https://matsuridayo.github.io) to download p
 
 欢迎捐赠以支持项目开发。
 
-您也可以通过 [Google Play](https://play.google.com/store/apps/details?id=moe.nb4a) 购买捐赠
+您也可以通过 [Google Play](https://play.google.com/store/apps/details?id=aiko.nb4a) 购买捐赠
 
 USDT TRC20
 
